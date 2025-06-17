@@ -1,0 +1,70 @@
+﻿@model TranQuangKhai_2280601379_LTW.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    ViewData["Title"] = "Chỉnh sửa sản phẩm";
+}
+
+<h2 class="mb-4">Chỉnh sửa sản phẩm</h2>
+
+<div class="card shadow-sm p-4">
+    <form asp-action="Edit" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" name="OldImageUrl" value="@Model.ImageUrl" />
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label fw-bold">Tên sản phẩm</label>
+            <input asp-for="Name" class="form-control" placeholder="Nhập tên sản phẩm" />
+            <span asp-validation-for="Name" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label fw-bold">Giá</label>
+            <input asp-for="Price" class="form-control" placeholder="VD: 15900000" />
+            <span asp-validation-for="Price" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label fw-bold">Mô tả</label>
+            <textarea asp-for="Description" class="form-control" rows="3" placeholder="Mô tả chi tiết sản phẩm"></textarea>
+            <span asp-validation-for="Description" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label fw-bold">Danh mục</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+                <option value="">-- Chọn danh mục --</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label fw-bold">Ảnh hiện tại</label><br />
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <img src="@Model.ImageUrl" alt="Ảnh sản phẩm" class="img-thumbnail" style="max-width: 200px;" />
+            }
+            else
+            {
+                <span class="text-muted fst-italic">Chưa có ảnh</span>
+            }
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label fw-bold">Chọn ảnh mới (nếu muốn thay)</label>
+            <input type="file" name="imageUrl" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary w-100 fw-bold">Lưu thay đổi</button>
+    </form>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

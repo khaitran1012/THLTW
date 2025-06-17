@@ -1,0 +1,57 @@
+﻿@model TranQuangKhai_2280601379_LTW.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    ViewData["Title"] = "Chỉnh sửa sản phẩm";
+}
+
+<h2 class="mb-4">Chỉnh sửa sản phẩm</h2>
+
+<div class="card shadow-sm p-4">
+    <form asp-action="Update" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" name="OldImageUrl" value="@Model.ImageUrl" />
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label fw-bold">Tên sản phẩm</label>
+            <input asp-for="Name" class="form-control" placeholder="Nhập tên sản phẩm" />
+            <span asp-validation-for="Name" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label fw-bold">Giá</label>
+            <input asp-for="Price" class="form-control" placeholder="VD: 15900000" />
+            <span asp-validation-for="Price" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label fw-bold">Mô tả</label>
+            <textarea asp-for="Description" class="form-control" rows="3" placeholder="Mô tả chi tiết sản phẩm"></textarea>
+            <span asp-validation-for="Description" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label fw-bold">Danh mục</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+                <option value="">-- Chọn danh mục --</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ImageUrl" class="form-label fw-bold">Hình ảnh mới (nếu muốn thay)</label>
+            <input type="file" asp-for="ImageUrl" class="form-control" />
+            <span asp-validation-for="ImageUrl" class="text-danger small"></span>
+
+            @if (!string.IsNullOrEmpty(Model.ImageUrl))
+            {
+                <div class="mt-2">
+                    <label class="form-label">Hình hiện tại:</label><br />
+                    <img src="@Model.ImageUrl" alt="Product Image" class="img-thumbnail" style="max-width: 200px;" />
+                </div>
+            }
+        </div>
+
+        <button type="submit" class="btn btn-warning w-100 fw-bold">Cập nhật sản phẩm</button>
+    </form>
+</div>

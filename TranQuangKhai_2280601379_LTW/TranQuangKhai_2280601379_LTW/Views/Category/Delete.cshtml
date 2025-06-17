@@ -1,0 +1,17 @@
+﻿@model TranQuangKhai_2280601379_LTW.Models.Category
+
+@{
+    ViewData["Title"] = "Xoá danh mục";
+}
+
+<h2>Xoá danh mục</h2>
+
+<h4>Bạn có chắc chắn muốn xoá danh mục: <strong>@Model.Name</strong>?</h4>
+
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Có</button>
+    <a asp-action="Index" class="btn btn-secondary">Không</a>
+</form>
+

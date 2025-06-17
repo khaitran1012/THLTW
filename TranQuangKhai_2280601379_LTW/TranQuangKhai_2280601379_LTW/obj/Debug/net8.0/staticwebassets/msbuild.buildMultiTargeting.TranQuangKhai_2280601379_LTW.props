@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TranQuangKhai_2280601379_LTW.props" />
+</Project>

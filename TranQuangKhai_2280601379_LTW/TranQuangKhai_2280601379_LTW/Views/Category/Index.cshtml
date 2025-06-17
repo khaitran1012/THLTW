@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TranQuangKhai_2280601379_LTW.Models.Category>
+
+
+@{
+    ViewData["Title"] = "Danh sách danh mục";
+}
+
+<h2 class="text-center my-4">Danh sách danh mục</h2>
+
+<div class="text-end mb-3">
+    <a class="btn btn-success" asp-action="Add">+ Thêm danh mục</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>#</th>
+            <th>Tên danh mục</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.Id</td>
+                <td>@category.Name</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@category.Id">Sửa</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@category.Id">Xoá</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

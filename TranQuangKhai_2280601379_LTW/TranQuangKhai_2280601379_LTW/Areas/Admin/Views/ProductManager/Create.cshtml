@@ -1,0 +1,51 @@
+﻿@model TranQuangKhai_2280601379_LTW.Models.Product
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+@{
+    ViewData["Title"] = "Thêm sản phẩm mới";
+}
+
+<h2 class="mb-4">Thêm sản phẩm mới</h2>
+
+<div class="card shadow-sm p-4">
+    <!-- ✅ Đã sửa từ asp-action="Add" thành asp-action="Create" -->
+    <form asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label fw-bold">Tên sản phẩm</label>
+            <input asp-for="Name" class="form-control" placeholder="Nhập tên sản phẩm" />
+            <span asp-validation-for="Name" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label fw-bold">Giá</label>
+            <input asp-for="Price" class="form-control" placeholder="VD: 15900000" />
+            <span asp-validation-for="Price" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label fw-bold">Mô tả</label>
+            <textarea asp-for="Description" class="form-control" rows="3" placeholder="Mô tả ngắn gọn về sản phẩm"></textarea>
+            <span asp-validation-for="Description" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CategoryId" class="form-label fw-bold">Danh mục</label>
+            <select asp-for="CategoryId" asp-items="ViewBag.Categories" class="form-select">
+                <option value="">-- Chọn danh mục --</option>
+            </select>
+            <span asp-validation-for="CategoryId" class="text-danger small"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ImageUrl" class="form-label fw-bold">Hình ảnh</label>
+            <input type="file" asp-for="ImageUrl" class="form-control" />
+            <span asp-validation-for="ImageUrl" class="text-danger small"></span>
+        </div>
+
+        <button type="submit" class="btn btn-danger w-100 fw-bold">Thêm sản phẩm</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

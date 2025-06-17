@@ -1,0 +1,35 @@
+﻿@model IEnumerable<TranQuangKhai_2280601379_LTW.Areas.Admin.Controllers.UserViewModel>
+
+@{
+    ViewData["Title"] = "Quản lý người dùng";
+}
+
+<h2 class="text-center my-4">👥 Quản lý người dùng</h2>
+
+<table class="table table-bordered table-striped shadow-sm">
+    <thead class="table-dark">
+        <tr>
+            <th>Email</th>
+            <th>Họ tên</th>
+            <th>Vai trò</th>
+            <th class="text-center">Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Email</td>
+                <td>@user.FullName</td>
+                <td>@user.Roles</td>
+                <td class="text-center">
+                    <a asp-action="Display" asp-route-id="@user.Id" class="btn btn-sm btn-info">🔍 Xem</a>
+                    <a asp-action="ChangeRole" asp-route-id="@user.Id" class="btn btn-sm btn-warning">🔄 Đổi vai trò</a>
+                    <form asp-action="DeleteEmployee" asp-route-id="@user.Id" method="post" class="d-inline" onsubmit="return confirm('Bạn có chắc muốn xoá nhân viên này?');">
+                        <button type="submit" class="btn btn-sm btn-danger">🗑️ Xoá</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

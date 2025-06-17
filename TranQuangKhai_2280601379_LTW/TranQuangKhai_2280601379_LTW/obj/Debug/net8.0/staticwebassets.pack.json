@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TranQuangKhai_2280601379_LTW.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TranQuangKhai_2280601379_LTW.re1dzu6omg.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\911.jpg",
+      "PackagePath": "staticwebassets\\Images\\911.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\Lamborghini-Aventador-SVJ-Roadster-5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Lamborghini-Aventador-SVJ-Roadster-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\OIP.jpg",
+      "PackagePath": "staticwebassets\\Images\\OIP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\R.jpg",
+      "PackagePath": "staticwebassets\\Images\\R.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\R.webp",
+      "PackagePath": "staticwebassets\\Images\\R.webp"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\dsc-6038-copy.jpg",
+      "PackagePath": "staticwebassets\\Images\\dsc-6038-copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\ferrari_488_challenge_evo_2020_4k_5k-1920x1080.jpg",
+      "PackagePath": "staticwebassets\\Images\\ferrari_488_challenge_evo_2020_4k_5k-1920x1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\foto-s63-w223_06.jpg",
+      "PackagePath": "staticwebassets\\Images\\foto-s63-w223_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\iphone-16-pro-max-2.webp",
+      "PackagePath": "staticwebassets\\Images\\iphone-16-pro-max-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\iphone-16-pro-max-6.webp",
+      "PackagePath": "staticwebassets\\Images\\iphone-16-pro-max-6.webp"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\iphone-16-pro-max.webp",
+      "PackagePath": "staticwebassets\\Images\\iphone-16-pro-max.webp"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\lamborghini-aventador-lp-780-4-ultimae-7-16256584316152102298807.webp",
+      "PackagePath": "staticwebassets\\Images\\lamborghini-aventador-lp-780-4-ultimae-7-16256584316152102298807.webp"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\Images\\thong-tin-chi-tiet-vinfast-vf-wild-1-768x512-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\thong-tin-chi-tiet-vinfast-vf-wild-1-768x512-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\TranQuangKhai_2280601379_LTW\\TranQuangKhai_2280601379_LTW\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TranQuangKhai_2280601379_LTW.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TranQuangKhai_2280601379_LTW.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TranQuangKhai_2280601379_LTW.props",
+      "PackagePath": "build\\TranQuangKhai_2280601379_LTW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TranQuangKhai_2280601379_LTW.props",
+      "PackagePath": "buildMultiTargeting\\TranQuangKhai_2280601379_LTW.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TranQuangKhai_2280601379_LTW.props",
+      "PackagePath": "buildTransitive\\TranQuangKhai_2280601379_LTW.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

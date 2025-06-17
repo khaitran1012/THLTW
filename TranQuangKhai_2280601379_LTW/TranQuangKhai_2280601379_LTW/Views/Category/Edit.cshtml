@@ -1,0 +1,18 @@
+﻿@model TranQuangKhai_2280601379_LTW.Models.Category
+
+@{
+    ViewData["Title"] = "Sửa danh mục";
+}
+
+<h2 class="my-4">Sửa danh mục</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Tên danh mục</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-warning">Cập nhật</button>
+    <a asp-action="Index" class="btn btn-secondary">Huỷ</a>
+</form>
